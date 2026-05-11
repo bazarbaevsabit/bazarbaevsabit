@@ -1,4 +1,4 @@
-# Sabit Bazarbaev / Сабит Базарбаев
+# Сабит Базарбаев / Sabit Bazarbaev
 **Старший преподаватель кафедры «Автоматизация и робототехника» ОмГТУ**
 <br>
 **Senior Lecturer at the Department of Automation and Robotics, OmSTU**  
